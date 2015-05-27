@@ -1,8 +1,7 @@
 # javastockmarketsimulation
 intro to the project which will definely end up no watchers.
 
-subject: hope to simulate the market react based on the pre defined client flux and market changing along the date
-principle the structure and elements. the decision of the client group has been made along with the para "mood", and "mood" decide also the nombre of trading, the price trending and the changing of market type. the simu has been made with three principles and three differents tables for data recoding
+subject: hope to simulate the market react based on the pre defined client flux and market changing selong the date. the decision of the client group has been made along with the para "mood", and "mood" decide also the nombre of trading, the price trending and the changing of market type. the simu has been made based on three principles and recorded in three differents tables in database file(mysql)
 
 first three rule :
 - price will decided by the wining tendance of market(buying mark or a selling mark, or one-side mark)
